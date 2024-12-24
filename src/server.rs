@@ -174,4 +174,3 @@ impl Drop for Server {
         self.stop(); // Ensure the server is stopped
     }
 }
-```
